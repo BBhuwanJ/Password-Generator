@@ -3,7 +3,9 @@
 A simple yet secure password generator built with **React**, **TypeScript**. Instantly generate strong, random passwords and copy to the clopboard.
 
 ---
+[Published App](https://password-generator-bbhuwanj.netlify.app/)
 
+---
 ## Features
 
 - Generate secure, random passwords
